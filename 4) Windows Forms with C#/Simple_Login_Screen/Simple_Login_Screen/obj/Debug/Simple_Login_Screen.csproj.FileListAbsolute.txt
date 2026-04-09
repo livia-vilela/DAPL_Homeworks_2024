@@ -1,0 +1,11 @@
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\bin\Debug\Tela_Login_Simples.exe.config
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\bin\Debug\Tela_Login_Simples.exe
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\bin\Debug\Tela_Login_Simples.pdb
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Simple_Login_Screen.csproj.AssemblyReference.cache
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Tela_Login_Simples.exe.config
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Tela_Login_Simples.LoginBox.resources
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Tela_Login_Simples.Properties.Resources.resources
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Simple_Login_Screen.csproj.GenerateResource.cache
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Simple_Login_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Tela_Login_Simples.exe
+C:\Users\Lívia\Desktop\ETE\DAPL_Homeworks_2024\4) Windows Forms with C#\Tela_Login_Simples\Tela_Login_Simples\obj\Debug\Tela_Login_Simples.pdb
